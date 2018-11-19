@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeINSports1ARHD.vaders.tv" tvg-name="BeINSports_HD1" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD1
+#EXTINF:-1 tvg-id="BeINSports1ARHD.vaders.tv" tvg-name="BeINSports_HD1" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD1
 http://hall2mark.ddns.net:80/medoum1/medoum/6907
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="BeINSports_HD2" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD2
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="BeINSports_HD2" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD2
 http://hall2mark.ddns.net:80/medoum1/medoum/6906
-#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="BeINSports_HD3" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD3
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="BeINSports_HD3" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD3
 http://hall2mark.ddns.net:80/medoum1/medoum/6905
-#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="BeINSports_HD4" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD4
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="BeINSports_HD4" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD4
 http://hall2mark.ddns.net:80/medoum1/medoum/6904
-#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="BeINSports_HD5" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD5
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="BeINSports_HD5" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD5
 http://hall2mark.ddns.net:80/medoum1/medoum/6903
-#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="BeINSports_HD6" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD6
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="BeINSports_HD6" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD6
 http://hall2mark.ddns.net:80/medoum1/medoum/6902
-#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="BeINSports_HD7" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD7
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="BeINSports_HD7" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD7
 http://hall2mark.ddns.net:80/medoum1/medoum/6901
-#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="BeINSports_HD8" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD8
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="BeINSports_HD8" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD8
 http://hall2mark.ddns.net:80/medoum1/medoum/6900
-#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="BeINSports_HD9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zjkApjux7gLMlbzQOu0jfTm8Ps-PwsHMN0Ky2ZKP26fqnVZi" group-title="BEIN SPORTS",AR:BeINSports_HD9
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="BeINSports_HD9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zjkApjux7gLMlbzQOu0jfTm8Ps-PwsHMN0Ky2ZKP26fqnVZi" group-title="BEIN SPORTS",BeINSports_HD9
 http://hall2mark.ddns.net:80/medoum1/medoum/6899
 
 
