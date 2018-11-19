@@ -26,15 +26,3 @@ http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 
 
 
-MOVIES
-#EXTM3U
-#EXTINF:-1,HBO HD
-http://50.7.161.82:8278/Hbohd/playlist.m3u8?tid=12773751&tsum=182814e56e23b737eb9b08f1d5f0e396
-#EXTINF:-1,FOX MOVIES ACTION
-http://50.7.161.82:8278/Foxactionhd/playlist.m3u8?tid=15596282&tsum=a35c6f0970a2c240047191f8d57b18e4
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://50.7.161.82:8278/Foxmovie/playlist.m3u8?tid=17883374&tsum=6a559fe4ceb5b8d77a384a526fd9fcb8
-#EXTINF:-1,HBO HITS
-http://50.7.161.82:8278/Hbohits/playlist.m3u8?tid=13870035&tsum=01a4b350e086cd88b499c36ef05fb583
-#EXTINF:-1,CINEMAX
-http://50.7.161.82:8278/Cinemax/playlist.m3u8?Cinemax/playlist.m3u8?tid=11822411&tsum=625a46fe239714bdedefed4c2e446812
