@@ -1,1 +1,54 @@
 https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8?hdnts=st=1544446126~exp=1544446176~acl=/i/*~hmac=43604336ae115e0f30a6271408f44c06f9df2737fc5910be9b6987208b9a14ac
+#EXTM3U
+#EXTINF:-1,HBO ASIA
+http://kiki.cr.rs:7623/trap/hboasia/chunks.m3u8?nimblesessionid=30521103&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjExOjAyIFBNJmhhc2hfdmFsdWU9bGNBZDNZWGdLcFhLZ3F2eUgxa2liUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,HBO HD
+http://kiki.cr.rs:7623/tiger/hbohd/chunks.m3u8?nimblesessionid=30565397&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA1OjI0OjI0IFBNJmhhc2hfdmFsdWU9WnZaRVA0Mm5NUmZWb2daMldrZU5WQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,CINEMAX
+http://kiki.cr.rs:7623/trap/cinemax/chunks.m3u8?nimblesessionid=30485692&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjExOjU4IFBNJmhhc2hfdmFsdWU9UUg4MnZSeW1UT0ZOenFGSFVkdythUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,CINEMAX MORE
+http://kiki.cr.rs:7623/trap/cinemaxmore/chunks.m3u8?nimblesessionid=30506322&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ3OjU2IFBNJmhhc2hfdmFsdWU9UzZ1TlM2cC9IVXdCZ3NHVDNkaGZKZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,BEIN PREMIER
+http://80.243.180.72:5432/fish/beinpremiere/chunks.m3u8?nimblesessionid=760628&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA1OjE0OjMwIFBNJmhhc2hfdmFsdWU9Q1lOaFQ2Ky9UOHBJdUk2cjcyZFlZdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,BEINMOVIES TK
+http://80.243.180.72:5432/fish/beinmoviesturk/chunks.m3u8?nimblesessionid=760898&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA1OjE5OjAwIFBNJmhhc2hfdmFsdWU9SU5PejBDbWRxOG8xeFNMeGc1Y0Q1dz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,BEINMOVIES 1
+http://185.132.178.82:6185/eagle/beinmovies1/chunks.m3u8?nimblesessionid=5879362&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjI2OjQ2IFBNJmhhc2hfdmFsdWU9UzNkTGdJVlhxUmFkakZqejZ6SkFRZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,BEINMOVIES 2
+http://185.132.178.82:6185/eagle/beinmovies2/chunks.m3u8?nimblesessionid=5879576&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjI2OjU4IFBNJmhhc2hfdmFsdWU9RFJ6Z2JJTjRNQ2ROaHRmeXRkb2V2Zz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ANDPRIVE HD
+http://185.132.178.82:6185/rabbit/andprivehd/chunks.m3u8?nimblesessionid=5881642&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjI4OjQ3IFBNJmhhc2hfdmFsdWU9a3BDemtBUDVwakZxSTdqYm16MytyUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,MOVIESNOW HD
+http://185.132.178.82:6185/rabbit/moviesnowhd/chunks.m3u8?nimblesessionid=5878839&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjI2OjIxIFBNJmhhc2hfdmFsdWU9cFRsZERDV1J6Yk4rWEt4OFJtUHkvdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,MN HD
+http://kiki.cr.rs:7623/tiger/mnhd/chunks.m3u8?nimblesessionid=30506512&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ4OjEzIFBNJmhhc2hfdmFsdWU9MlRMWFN2VXh3WTFVNGRjU0h2RldvZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,MNX HD
+http://kiki.cr.rs:7623/tiger/mnxhd/chunks.m3u8?nimblesessionid=30506634&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ4OjI2IFBNJmhhc2hfdmFsdWU9VVhHaVIyUDNCaG9jdGRLcXM0LzNjdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,ROMEDYNOW HD
+http://185.132.178.82:6185/rabbit/romedynowhd/chunks.m3u8?nimblesessionid=5901828&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ4OjQ2IFBNJmhhc2hfdmFsdWU9MWVKT3RRczl0d1p0a1ZpbkYrYkhiQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SILVERSCREEN
+http://78.129.241.19:8554/7ippo/silverscreen/chunks.m3u8?nimblesessionid=11108352&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ3OjMxIFBNJmhhc2hfdmFsdWU9L3R1ZXlKUHRhdEVHTU02YmxkdEUzQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,STARLITE
+http://80.243.180.72:5432/gorilla/starlite/l_149959_11370680_1134.ts?nimblesessionid=754768&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ3OjA4IFBNJmhhc2hfdmFsdWU9dVJ3NXBVdkpXRzBMVjRGMk5sS3FkUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,WARNER BROS
+http://185.132.178.82:6185/rabbit/warnerbrothers/chunks.m3u8?nimblesessionid=5901978&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCAzOjQ4OjU4IFBNJmhhc2hfdmFsdWU9TldzdVpVaHo4eWxySkhsTzNraWJIUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,MANORAGAN MOVIES
+http://185.132.178.82:6185/rabbit/manoranganmovies/chunks.m3u8?nimblesessionid=5919314&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjA2OjU1IFBNJmhhc2hfdmFsdWU9cGNUMFJXdTFUOXlqajgxeFdJNE9ZQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,MOVIESOK
+http://185.132.178.82:6185/rabbit/moviesok/chunks.m3u8?nimblesessionid=5919949&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjA3OjMzIFBNJmhhc2hfdmFsdWU9T0FCMDV6cmRQTUJFSXd5ZmV0K0hwUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,MOVIE HOUSE
+http://80.243.180.72:5432/gorilla/moviehouse/chunks.m3u8?nimblesessionid=756162&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjA3OjE0IFBNJmhhc2hfdmFsdWU9MS9tYkxvSmZFeGpYQUxZVm0zVTZMdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SATMAX UK
+http://185.21.217.16:2086/fox/SATMAXUK/chunks.m3u8?nimblesessionid=812449&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjA3OjU1IFBNJmhhc2hfdmFsdWU9aXBMejdrY0xpSC8rbW44ckRiUHBndz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SKY MOV ACTION
+http://185.132.178.82:6185/eagle/SkyMoviesAction/chunks.m3u8?nimblesessionid=5923742&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjEyOjE5IFBNJmhhc2hfdmFsdWU9SE1pZ1hPazFhVGl2VTlxNk5ia1FGQT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SKY MOV CRIME
+http://185.132.178.82:6185/eagle/SkyMoviesCrime/chunks.m3u8?nimblesessionid=5924340&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjEyOjU2IFBNJmhhc2hfdmFsdWU9SGxNNjBSYXFtMitmVnpsQ2prRWoxdz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SKY MOV DISNEY
+http://185.132.178.82:6185/eagle/SKYMOVIESDISNEY/chunks.m3u8?nimblesessionid=5924631&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjEzOjE1IFBNJmhhc2hfdmFsdWU9aHdXNEhRMG5sbkxTZE0xbGtWQXZ4QT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SKY MOV FAMILY
+http://185.132.178.82:6185/eagle/SkyFamily/chunks.m3u8?nimblesessionid=5925346&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjEzOjU5IFBNJmhhc2hfdmFsdWU9dXJVY29KSGdoQi91OWVuTFB6S0xQUT09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SKY MOV HOROR
+http://185.132.178.82:6185/eagle/SkyMoviesSciFiHorror/chunks.m3u8?nimblesessionid=5926330&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjE1OjAzIFBNJmhhc2hfdmFsdWU9b0tRY1pER0VJeDFHaTIvU2JIaGQ2dz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1,SKY MOV PREMIER
+http://185.132.178.82:6185/eagle/SkyMoviesPremiere/chunks.m3u8?nimblesessionid=5925899&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAxOCA0OjE0OjMzIFBNJmhhc2hfdmFsdWU9Tk9wS2hCQ1NXVStjSVRpR1g3Z2lPdz09JnZhbGlkbWludXRlcz0y
