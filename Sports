@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeINSports1ARHD.vaders.tv" tvg-name="BeINSports_HD1" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD1
-http://hall2mark.ddns.net:80/medoum1/medoum/6907
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="BeINSports_HD2" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD2
-http://hall2mark.ddns.net:80/medoum1/medoum/6906
-#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="BeINSports_HD3" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD3
-http://hall2mark.ddns.net:80/medoum1/medoum/6905
-#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="BeINSports_HD4" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD4
-http://hall2mark.ddns.net:80/medoum1/medoum/6904
-#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="BeINSports_HD5" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD5
-http://hall2mark.ddns.net:80/medoum1/medoum/6903
-#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="BeINSports_HD6" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD6
-http://hall2mark.ddns.net:80/medoum1/medoum/6902
-#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="BeINSports_HD7" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD7
-http://hall2mark.ddns.net:80/medoum1/medoum/6901
-#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="BeINSports_HD8" tvg-logo="" group-title="BEIN SPORTS",BeINSports_HD8
-http://hall2mark.ddns.net:80/medoum1/medoum/6900
-#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="BeINSports_HD9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zjkApjux7gLMlbzQOu0jfTm8Ps-PwsHMN0Ky2ZKP26fqnVZi" group-title="BEIN SPORTS",BeINSports_HD9
-http://hall2mark.ddns.net:80/medoum1/medoum/6899
+#EXTINF:-1,BEIN SPORT 1 HD
+http://5.254.66.150:25461/omar01/omar01/5272
+#EXTINF:-1,BEIN SPORT 2 HD
+http://5.254.66.150:25461/omar01/omar01/5271
+#EXTINF:-1,BEIN SPORT 3 HD
+http://5.254.66.150:25461/omar01/omar01/5270
 #EXTINF:-1,SUPER sport
 https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8?hdnts=st=1544445464~exp=1544445514~acl=/i/*~hmac=589f45a3d216e4782355e4c57633b5398f5c0cc72ac5a4eec627bc58e322ccfa
 
