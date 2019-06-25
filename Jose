@@ -22,7 +22,56 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 #EXTINF:-1,TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,TVRI
-http://210.210.155.35/qwr9ew/s/s11/02.m3u8
-
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1,METRO TV
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,INEWS TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+#EXTINF:-1,JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://45.126.83.51/qwr9ew/s/s32/index2.m3u8
+#EXTINF:-1,HBO
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO HOME
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-1,FOX CINEMA PREMIUM
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1,FOX Movies Premium
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,KIX ID
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1,KIX ID 2
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1,HITS ID
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1,HITS ID 2
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1,DIVA ID
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1,DIVA ID 2
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1,ENTERTAINMENT ID
+http://45.126.83.51/uq2663/h/h10/index2.m3u8
+#EXTINF:-1,CINEMA WORLD ID
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1,FIRST MOVIES
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,ANIPLUS ID
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 LOOAL
 
