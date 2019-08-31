@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,NET
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+#EXTINF:-1,NET TV
+http://zaman-now.com/ztvz/Net_2
 #EXTINF:-1,TRANS TV
 http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,RCTI
